@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body {
+    background-image: url(../images/image-background2.jpg);
+    backdrop-filter: blur(4px);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table, tr, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.text-align-center {
+    text-align: center;
+    vertical-align: center;
+}
+th, td {
+    padding: 10px;
+}
+.color-net {
+    background-color: rgb(138, 89, 76, 0.8);
+}
+.color-eapp {
+    background-color: rgb(128, 107, 70, 0.8);
+}
+.color-perdev {
+    background-color: rgb( 128, 74, 70, 0.8);
+}
+.color-ucsp {
+    background-color: rgb( 191, 131, 96, 0.8);
+}
+.color-lunch {
+    background-color: rgb( 57, 85, 115, 0.8);
+}
+.color-pr2 {
+    background-color: rgb( 109, 105, 191, 0.8);
+}
+.color-recess {
+    background-color: rgb( 217, 153, 43, 0.8);
+}
+.color-time {
+    background-color: rgb( 86, 115, 80, 0.8);
+}
+.color-ordinal-number {
+    background-color: rgb( 191, 179, 172, 0.8);
+}
+.color-fg {
+    background-color: rgb( 109, 105, 191, 0.8);
+}
+.color-cyf {
+    background-color: rgb( 69, 115, 115, 0.8);
+}
+.color-vfa {
+   background-color: rgb( 64, 48, 38, 0.8);
+}
+.color-ct {
+    background-color: rgb( 89, 67, 54, 0.8);
+}
+.color-fr {
+    background-color: rgb( 109, 105, 191, 0.8);
+}
+.color-icl {
+    background-color: rgb( 60, 57, 115, 0.8);
+}
+.color-hg {
+    background-color: rgb( 134, 191, 158, 0.8);
+}
+.color-pe3 {
+   background-color: rgb( 96, 141, 191, 0.8);
+}
+.color-3rd-header {
+    background-color: rgb( 108, 128, 122, 0.8);
+}
+.color-2nd-header {
+    background-color: rgb( 138, 129, 124, 0.8);
+}
+.color-1st-header {
+    background-color: rgb( 128, 107, 70, 0.8);
+}
+
